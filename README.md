@@ -13,12 +13,8 @@ The analysis uses normalized closing prices, **setting the price on January 1, 2
 * **Comparative Trend**: Despite the initial dip, Amazon's recovery showed resilience compared to peers like Microsoft (MSFT), which continued a steeper decline during early February.
 
 ## Technical Stack
-* **Python**: Programming language
+* **Python 3**: Programming language
 * **yfinance**: For downloading historical stock data
 * **pandas**: For data manipulation and normalization
 * **matplotlib**: For creating the visualization
 
-## How to Run
-1.  Clone this repository.
-2.  Install the required libraries: `pip install yfinance pandas matplotlib`.
-3.  Run the Python script to generate the visualization.
